@@ -1,0 +1,30 @@
+{
+  "name": "job-application-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rishika Nirala",
+  "license": "ISC",
+  "description": "A simple CRUD Job Application Tracker",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishikanirala/job-application-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rishikanirala/job-application-tracker/issues"
+  },
+  "homepage": "https://github.com/rishikanirala/job-application-tracker#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
